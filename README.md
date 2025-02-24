@@ -2,18 +2,18 @@
 
 Event keyCodes is a lightweight website for getting JavaScript keyboard event keycodes.
 
-## Features
+## Features:
 - Check keycodes on keypress
 - Copy and paste keycodes
 - Light & Dark mode
 
-## Usage
+## Usage:
 "Press any key to get the KeyCode"
 
-## Live Demo
+## Live Demo:
 The live demo of Event keyCodes can be found at https://jseventkeycodes.netlify.app
 
-## Technical Stack
+## Technical Stack:
 - HTML
 - CSS
 - JavaScript
