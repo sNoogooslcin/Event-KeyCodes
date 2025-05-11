@@ -19,7 +19,7 @@ The live demo of Event keyCodes can be found at
 - CSS
 - JavaScript
 
-## Contributing
+## Contributing:
 If you'd like to contribute to the development of Event keyCodes, you're welcome to do so! Just make a pull request and I'll review and merge it if everything is good to go.
 
 ## License
