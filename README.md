@@ -1,4 +1,4 @@
-# JavaScript Event keyCodes
+# JavaScript - Event keyCodes
 
 Event keyCodes is a lightweight website for getting JavaScript keyboard event keycodes.
 
