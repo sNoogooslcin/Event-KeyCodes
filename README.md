@@ -1,6 +1,6 @@
 # JavaScript - Event keyCodes
 
-Event keyCodes is a lightweight website for getting JavaScript keyboard event keycodes.
+JavaScript event keyCodes is a lightweight website for getting JavaScript keyboard event keycodes.
 
 ## Features:
 - Check keycodes on keypress
