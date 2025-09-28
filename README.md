@@ -6,6 +6,7 @@ JavaScript event keyCodes is a lightweight website for getting JavaScript keyboa
 - Check keycodes on keypress
 - Copy and paste keycodes
 - Light & Dark mode
+- Others
 
 ## Usage:
 "Press any key to get the KeyCode"
